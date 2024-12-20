@@ -30,6 +30,12 @@ public class SumOfLargestNumber {
 		
 		System.out.println("The sum of largest number is : " +sum);
 		
+		double average = 0.0;
+		
+		average = (num1 + num2 + num3) / 3;
+		
+		System.out.println("Average of 3 numbers : " +average);
+		
 		sc.close();
 		
 	}
